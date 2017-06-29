@@ -1,0 +1,8 @@
+dev_env = {
+'name' : 'local',
+'dir_images':"images",
+'docker':{
+	'username':'',
+	'password': ''
+	}
+}
